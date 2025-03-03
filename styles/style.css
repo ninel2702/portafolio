@@ -2,7 +2,7 @@
        
 :root{
     --color-primario:#3674B5;
-    --color-secundario:white;
+    --color-secundario:#578FCA;
     --color-terceario:#A1E3F9;
     --color-hover:#D1F8EF;
 
@@ -54,6 +54,7 @@ body{
     display:flex ;
     flex-direction: column;
     gap: 40px; /*es para el espaciado entre tags*/
+       color:white;
 }
 
 .presentacion_enlaces{
